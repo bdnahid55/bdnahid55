@@ -5,10 +5,10 @@ I'm Nazmul, Full Stack Web Application Developer and Owner of on <a href="http:/
 
 <h3>☕ Connect with me!</h3>
 <p>
-    <a href="https://www.facebook.com/profile.php?id=100006948045273" target="_blank">
+    <a href="https://www.facebook.com/profile.php?id=bdpirate1000" target="_blank">
     <img src ="https://img.shields.io/static/v1?message=Facebook&logo=facebook&labelColor=5c5c5c&color=b9770e&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
- <a href="https://www.youtube.com/c/WebJourneybd" target="_blank">
+ <a href="https://www.youtube.com/c/codefusions" target="_blank">
     <img src ="https://img.shields.io/static/v1?message=Youtube&logo=youtube&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
    <a href="mailto:bdnahid55@gmail.com" target="_blank">
