@@ -1,5 +1,5 @@
 <h3>Hi there 👋</h3>
-I'm Nazmul, Full Stack Web Application Developer and Owner of on <a href="http://codefusions.com/">Codefusions.com/</a>. I spend most of the time coding client projects.
+I'm Nazmul, Full Stack Web Application Developer and Owner of on <a href="http://codefusions.com/">Codefusions.com</a>. I spend most of the time coding client projects.
 
 <br><p align="left"> <img src="https://komarev.com/ghpvc/?username=bdnahid55&label=Profile%20views&color=0e75b6&style=flat" alt="bdnahid55" /> </p>
 
